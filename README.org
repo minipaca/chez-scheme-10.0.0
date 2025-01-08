@@ -1,4 +1,4 @@
-[[https://github.com/minipaca/minipaca/blob/master/README.org][English]] | [[https://github.com/minipaca/minipaca/blob/master/README-zh_CN.org][中文简体]] | [[https://github.com/minipaca/minipaca/blob/master/README-zh_TW.org][中文正體]]
+[[https://github.com/minipaca/chez-scheme-10.0.0/blob/master/README.org][English]] | [[https://github.com/minipaca/chez-scheme-10.0.0/blob/master/README-zh_CN.org][中文简体]] | [[https://github.com/minipaca/chez-scheme-10.0.0/blob/master/README-zh_TW.org][中文正體]]
 
 Minipaca is a tool to build cross platform apps with Chez Scheme and GTK4.
 More information: https://minipaca.github.io
@@ -55,6 +55,6 @@ pkg_add ./xx.tgz    # As root
 Download /*cs10macos-amd64.pkg/ and install it
 
 - *Windows OS (x86_64/amd64)*
-Download /*cs10win-amd64/ and install it
+Download /*cs10win-amd64.exe/ and install it
 
 Download [[https://aka.ms/vs/17/release/VC_redist.x64.exe][VC_redist]] and install it
