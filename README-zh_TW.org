@@ -1,4 +1,4 @@
-[[https://github.com/minipaca/chez-scheme-10.0.0/blob/master/README.org][English]] | [[https://github.com/minipaca/chez-scheme-10.0.0/blob/master/README-zh_CN.org][中文简体]] | [[https://github.com/minipaca/chez-scheme-10.0.0/blob/master/README-zh_TW.org][中文正體]]
+[[https://github.com/minipaca/chez-scheme-10.0.0/blob/main/README.org][English]] | [[https://github.com/minipaca/chez-scheme-10.0.0/blob/main/README-zh_CN.org][中文简体]] | [[https://github.com/minipaca/chez-scheme-10.0.0/blob/main/README-zh_TW.org][中文正體]]
 
 Minipaca是一個用ChezScheme和GTK4構建跨平台軟體的工具。
 更多資訊請查看：https://minipaca.github.io/tw
