@@ -3,7 +3,7 @@
 Minipaca is a tool to build cross platform apps with Chez Scheme and GTK4.
 More information: https://minipaca.github.io
 
-To run minipaca you must have Chez Scheme installed on your operating system. Here is howtos:
+To run minipaca you must have Chez Scheme installed on your operating system. Download packages from the latest releases.
 
 - *Debian 12, Ubuntu 22.04, Ubuntu 24.04 (x86_64/amd64)*
 Chez Scheme is in the official repos, it will be installed automatically

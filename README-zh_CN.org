@@ -3,7 +3,7 @@
 Minipaca是一个用ChezScheme和GTK4构建跨平台软件的工具。
 更多信息请查看：https://minipaca.github.io/cn
 
-要运行Minipaca，你的系统中必须安装ChezScheme。这里是安装方法：
+要运行Minipaca，你的系统中必须安装ChezScheme。请从最新的发布中下载安装包。
 
 - *Debian 12, Ubuntu 22.04, Ubuntu 24.04 (x86_64/amd64)*
 ChezScheme在官方仓库中，它会作为依赖自动安装。
